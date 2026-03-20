@@ -1,39 +1,17 @@
-# Dashboard Responsivo - Flutter
+# cartao_visita
 
-Este projeto demonstra a implementação de uma interface adaptável (Responsive Design) utilizando o framework Flutter, capaz de reestruturar os seus componentes visualmente para ecrãs de telemóvel, tablet e computador.
+A new Flutter project.
 
-## 👤 Identificação
-* **Nome:** [TEU NOME AQUI]
-* **Turma:** [TUA TURMA AQUI]
+## Getting Started
 
----
+This project is a starting point for a Flutter application.
 
-## 📸 Screenshots dos Layouts
+A few resources to get you started if this is your first Flutter project:
 
-| 📱 Mobile | 📑 Tablet | 💻 Desktop |
-| :---: | :---: | :---: |
-| ![Mobile](screenshots/mobile.png) | ![Tablet](screenshots/tablet.png) | ![Desktop](screenshots/desktop.png) |
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-> **Nota:** As capturas de ecrã acima demonstram a transição entre o menu lateral oculto (Drawer) no telemóvel e a interface expandida em colunas no desktop.
-
----
-
-## 🚀 Como Executar o Projeto
-
-Siga os passos abaixo para configurar e rodar a aplicação na sua máquina local:
-
-### 1. Pré-requisitos
-* Ter o [Flutter SDK](https://docs.flutter.dev/get-started/install) instalado na versão estável.
-* Ter um navegador (Chrome/Edge) ou emulador configurado.
-
-### 2. Obter as dependências
-No terminal, dentro da pasta raiz do projeto (`dashboard_responsivo`), execute:
-```bash
-flutter pub get
-
-### 3. Executar a Aplicação
-Podes executar o projeto utilizando um dos seguintes comandos, dependendo do ambiente que desejas testar:
-
-* **No Navegador (Recomendado para testar a responsividade):**
-  ```bash
-  flutter run -d chrome
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

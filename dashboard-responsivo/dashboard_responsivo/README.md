@@ -3,8 +3,8 @@
 Este projeto demonstra a implementação de uma interface adaptável (Responsive Design) utilizando o framework Flutter, capaz de reestruturar os seus componentes visualmente para ecrãs de telemóvel, tablet e computador.
 
 ## 👤 Identificação
-* **Nome:** [TEU NOME AQUI]
-* **Turma:** [TUA TURMA AQUI]
+* **Nome:** [Iago Rech Tramontin]
+* **Turma:** [ADS 5 Fase]
 
 ---
 

@@ -1,7 +1,7 @@
 // lib/screens/lista_produtos.dart
 import 'package:flutter/material.dart';
 import '../models/produto.dart';
-import '../routes/app_routes.dart'; // Certifique-se de que o caminho está correto para o seu ficheiro de rotas
+import '../routes/app_routes.dart';
 
 class ListaProdutos extends StatefulWidget {
   const ListaProdutos({super.key});
@@ -31,7 +31,6 @@ class _ListaProdutosState extends State<ListaProdutos> {
             subtitle: Text('R\$ ${produto.preco.toStringAsFixed(2)}'),
             onTap: () {
               // NAVEGAÇÃO 1: Vai para a página de Detalhes
-              // Passamos o 'produto' selecionado através do parâmetro 'arguments'
               Navigator.pushNamed(
                 context, 
                 AppRoutes.detalhes, 

@@ -1,4 +1,3 @@
-````markdown
 # App de Cadastro de Produtos 🛒
 
 Este é um aplicativo Flutter desenvolvido como atividade prática para demonstrar a navegação entre múltiplas telas, uso da pilha de navegação (`push` e `pop`) e passagem de dados entre telas.
@@ -42,7 +41,7 @@ Siga os passos abaixo para testar o aplicativo em sua máquina:
 2. **Clone ou baixe o repositório:**
    ```bash
    git clone [https://github.com/I4g0m1t0/Dev_Mobile.git]
-````
+    ```
 
 3. **Abra o terminal na pasta do projeto e instale as dependências:**
 

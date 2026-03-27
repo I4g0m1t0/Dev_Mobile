@@ -11,17 +11,16 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Produtos',
+      title: 'Hábitos',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(
-          seedColor: Colors.red,
+          seedColor: Colors.pinkAccent,
           // ···
           brightness: Brightness.dark,
         ),
       ),
-
       // Usando as rotas nomeadas aqui:
-      initialRoute: AppRoutes.produtos,
+      initialRoute: AppRoutes.habitos,
       routes: AppRoutes.routes,
     );
   }

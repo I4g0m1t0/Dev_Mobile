@@ -8,7 +8,7 @@ Aplicativo desenvolvido em Flutter para a Atividade Prática (Aula 9) da 5ª Fas
 
 | Tela Inicial | Animação Hero |
 | :---: | :---: |
-| ![Tela Inicial](screenshots/tela_inicial.png) | ![Animação Hero](screenshots/hero_animacao.gif) |
+| ![Tela Inicial](screenshots/Tela_inicial.png) | ![Animação Hero](screenshots/hero_animacao.gif) |
 
 ## 🚀 Requisitos Implementados
 

@@ -22,7 +22,7 @@ class _MyAppState extends State<MyApp> {
         textTheme: TextTheme(bodyMedium: TextStyle(fontSize: 20)),
       ),
       home: Scaffold(
-        appBar: AppBar(title: Text('VERSÃO QUEBRADA 🔥')),
+        appBar: AppBar(title: Text('Versão Consertada 🫡')),
         floatingActionButton: FloatingActionButton(
           onPressed: () => setState(() => counter++),
           child: Icon(Icons.refresh),
@@ -30,11 +30,11 @@ class _MyAppState extends State<MyApp> {
         body: ListView(
           children: [
             ListTile(
-              title: Text('Lista RUIM (Column + Scroll)'),
+              title: Text('Lista'),
               onTap: () => runApp(BrokenListPage()),
             ),
             ListTile(
-              title: Text('Grid RUIM (sem builder)'),
+              title: Text('Grid'),
               onTap: () => runApp(BrokenGridPage()),
             ),
           ],

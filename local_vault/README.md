@@ -19,22 +19,20 @@
 
 1. Clone o repositório.
 2. Abra o terminal na pasta do projeto e baixe as dependências:
-   ```bash
+```
    flutter pub get
 ```
 
 3. Gere o arquivo do adaptador do Hive (necessário para o modelo UserProfile):
 ```
-bash
 dart run build_runner build --delete-conflicting-outputs
 
 ```
 
 
 4. Execute o aplicativo (pode ser rodado no Chrome/Edge para testes rápidos ou no emulador Android/iOS):
-```bash
+```
 flutter run
-
 ```
 
 ---

@@ -21,11 +21,11 @@
 2. Abra o terminal na pasta do projeto e baixe as dependências:
    ```bash
    flutter pub get
-
 ```
 
 3. Gere o arquivo do adaptador do Hive (necessário para o modelo UserProfile):
-```bash
+```
+bash
 dart run build_runner build --delete-conflicting-outputs
 
 ```
